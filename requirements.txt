@@ -1,0 +1,10 @@
+ipykernel
+gradio
+huggingface
+transformers
+huggingface_hub
+torch
+streamlit
+bs4
+sentence-transformers
+
