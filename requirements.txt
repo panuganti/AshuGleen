@@ -7,4 +7,6 @@ torch
 streamlit
 bs4
 sentence-transformers
-
+statistics
+rouge-score
+datasets
